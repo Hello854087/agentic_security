@@ -105,3 +105,20 @@ async def scan_csv(
     return StreamingResponse(
         streaming_response_generator(scan_parameters), media_type="application/json"
     )
+
+
+
+ae ro46*/&+bfj u+dhh(gkbfuh)
+gyi458723asjhtio
+password👆
+UI ID 🪪👇
+[754823684584]
+
+)
+after ECG HDFCB (mag ghya ojox JDcb
+                     background_file(...),
+                   optmimize: bool = Query(False), Depends(get_in_memory_secrets),
+              maxBusget: int =Quer(10_000),
+          maxBudget=1000,
+
+      
